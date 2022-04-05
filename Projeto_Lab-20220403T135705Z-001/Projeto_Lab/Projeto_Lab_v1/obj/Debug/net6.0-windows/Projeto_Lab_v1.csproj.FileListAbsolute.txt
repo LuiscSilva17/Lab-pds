@@ -1,0 +1,13 @@
+C:\Users\lopes\source\repos\Projeto_Lab-20220403T135705Z-001\Projeto_Lab\Projeto_Lab_v1\obj\Debug\net6.0-windows\Projeto_Lab_v1.csproj.AssemblyReference.cache
+C:\Users\lopes\source\repos\Projeto_Lab-20220403T135705Z-001\Projeto_Lab\Projeto_Lab_v1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lopes\source\repos\Projeto_Lab-20220403T135705Z-001\Projeto_Lab\Projeto_Lab_v1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lopes\source\repos\Projeto_Lab-20220403T135705Z-001\Projeto_Lab\Projeto_Lab_v1\obj\Debug\net6.0-windows\Projeto_Lab_v1_MarkupCompile.cache
+C:\Users\lopes\source\repos\Projeto_Lab-20220403T135705Z-001\Projeto_Lab\Projeto_Lab_v1\obj\Debug\net6.0-windows\Projeto_Lab_v1_MarkupCompile.lref
+C:\Users\lopes\source\repos\Projeto_Lab-20220403T135705Z-001\Projeto_Lab\Projeto_Lab_v1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lopes\source\repos\Projeto_Lab-20220403T135705Z-001\Projeto_Lab\Projeto_Lab_v1\obj\Debug\net6.0-windows\Projeto_Lab_v1.g.resources
+C:\Users\lopes\source\repos\Projeto_Lab-20220403T135705Z-001\Projeto_Lab\Projeto_Lab_v1\obj\Debug\net6.0-windows\Projeto_Lab_v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopes\source\repos\Projeto_Lab-20220403T135705Z-001\Projeto_Lab\Projeto_Lab_v1\obj\Debug\net6.0-windows\Projeto_Lab_v1.AssemblyInfoInputs.cache
+C:\Users\lopes\source\repos\Projeto_Lab-20220403T135705Z-001\Projeto_Lab\Projeto_Lab_v1\obj\Debug\net6.0-windows\Projeto_Lab_v1.AssemblyInfo.cs
+C:\Users\lopes\source\repos\Projeto_Lab-20220403T135705Z-001\Projeto_Lab\Projeto_Lab_v1\obj\Debug\net6.0-windows\Projeto_Lab_v1.csproj.CoreCompileInputs.cache
+C:\Users\lopes\source\repos\Projeto_Lab-20220403T135705Z-001\Projeto_Lab\Projeto_Lab_v1\obj\Debug\net6.0-windows\refint\Projeto_Lab_v1.dll
+C:\Users\lopes\source\repos\Projeto_Lab-20220403T135705Z-001\Projeto_Lab\Projeto_Lab_v1\obj\Debug\net6.0-windows\Projeto_Lab_v1.pdb
